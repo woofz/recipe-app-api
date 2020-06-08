@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app api source code
+Just a test API app :)
